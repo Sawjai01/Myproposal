@@ -12,6 +12,7 @@ Connect four game: A 2 players game competing in a 6x7 grid board. Both players 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
 Tetris game: using pygame for grahpical endering and user interface > using game loops > loops > manipluating the tetris (4 blocks each pieces) (rotate), > scoring system, score checking, allows players to keep track with their score> level up, players level up by their score points, each lvl increases the speed of the game > a interface with a start, pause, play again, and game over screen display > images and sound effects.
+Connect four game: using pygame for graphical interface > create 6x7 retanglur grid > Software that checks which player won in successfully haveing connected 4 pieces : horizontally/vertically > will run in game loops until a player wins or ends with a draw 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
